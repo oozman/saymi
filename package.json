@@ -1,0 +1,18 @@
+{
+  "name": "saymi",
+  "version": "1.0.0",
+  "description": "A simple command line interface for your Mi Home devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Usman <hi@omarusman.com>",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.10.0",
+    "lodash": "^4.17.4",
+    "miio": "^0.12.0",
+    "q": "^1.5.0"
+  }
+}
