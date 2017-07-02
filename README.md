@@ -1,7 +1,7 @@
 # saymi
 A simple API command line interface for your Mi Home devices. Built on top of an awesome project: [miio](https://github.com/aholstenson/miio)
 
-<img src="https://firebasestorage.googleapis.com/v0/b/saymi-9b0bd.appspot.com/o/readme.gif?alt=media&token=8b7bc348-74ec-4468-8b7e-1b6b68db9002" width="500"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/saymi-9b0bd.appspot.com/o/readme.gif?alt=media&token=f23596da-7402-4ef9-b6f8-f18160c7a871" width="500"/>
 
 ## Installation
 Before installing you need at least nodejs 6+ and npm 4+.
