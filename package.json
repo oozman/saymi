@@ -6,7 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Omar Usman <hi@omarusman.com>",
+  "author": "Omar Usman <oomarusman@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omarusman/saymi"
+  },
+  "keywords": [
+    "xiaomi",
+    "mi",
+    "api",
+    "smarthome",
+    "command-line"
+  ],
+  "bin": {
+    "saymi": "./index.js"
+  },
   "license": "ISC",
   "dependencies": {
     "colors": "^1.1.2",
