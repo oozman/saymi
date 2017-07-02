@@ -4,12 +4,13 @@ const program = require('commander');
 const colors = require('colors');
 const AirPurifierCommand = require('./lib/commands/airpurifier_command');
 const DiscoverCommand = require('./lib/commands/discover_command');
+const helper = require('./lib/helper');
 
 /**
  * Set global command settings.
  */
 program
-    .version('1.0.0')
+    .version(helper.getVersion())
     .option('--ip <IP>', 'Set device ip address.')
     .option('--token <TOKEN>', 'Set device token.');
 
