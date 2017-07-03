@@ -1,6 +1,6 @@
 {
   "name": "saymi",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A simple API command line interface for your Mi Home devices.",
   "main": "index.js",
   "scripts": {
