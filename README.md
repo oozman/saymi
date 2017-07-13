@@ -14,8 +14,14 @@ Before installing you need at least nodejs 6.6+ and npm 4.0+.
 <table>
   <thead></thead>
   <tbody>
-    <td>Mi Air Purifier 1, 2 and Pro</td>
-    <td><img src="https://firebasestorage.googleapis.com/v0/b/saymi-9b0bd.appspot.com/o/airpurifier.jpg?alt=media&token=16e22ec7-3cc0-450b-b9b3-aa322c53bbd1" alt="Air Purifier" width="200"/></td>
+    <tr>
+        <td>Mi Air Purifier 1, 2 and Pro</td>
+        <td><img src="https://firebasestorage.googleapis.com/v0/b/saymi-9b0bd.appspot.com/o/airpurifier.png?alt=media&token=df9cb029-b843-4e59-b673-801414cd605a" alt="Air Purifier" width="200"/></td>
+    </tr>
+    <tr style="background-color: #fff;">
+        <td>Mi Humidifier</td>
+        <td><img src="https://firebasestorage.googleapis.com/v0/b/saymi-9b0bd.appspot.com/o/humidifier.png?alt=media&token=1d95694d-dbe6-4448-9255-909dacfa3984" alt="Humidifier" width="200"/></td>
+    </tr>
   </tbody>
 </table>
 
